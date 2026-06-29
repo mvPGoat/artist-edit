@@ -237,7 +237,7 @@ export default function Home() {
       </Section>
 
       {/* ================= 其他全部不动 ================= */}
-      <Section title="篮球素材群">
+      <Section title="篮球素材群（阿里云盘）">
         <Card>
           <p className="text-2xl font-bold mb-2">20元 / 人</p>
           <div className="text-white/60 space-y-1 text-sm">
