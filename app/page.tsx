@@ -237,14 +237,14 @@ export default function Home() {
       </Section>
 
       {/* ================= 其他全部不动 ================= */}
-      <Section title="篮球素材群（阿里云盘）">
+      <Section title="篮球素材群（百度网盘）">
         <Card>
           <p className="text-2xl font-bold mb-2">20元 / 人</p>
           <div className="text-white/60 space-y-1 text-sm">
            <p>各个球星的篮球素材</p>
             <p>主播同款都会上传</p>
             <p>付款进入素材群</p>
-            <p>群内持续更新网盘链接资源</p>
+            <p>网盘持续更新新素材资源</p>
             <p>单视频素材：3元 / 个</p>
           </div>
         </Card>
