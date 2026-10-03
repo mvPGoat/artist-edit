@@ -117,7 +117,7 @@ export default function Home() {
       {/* ================= AE代剪（不动内容） ================= */}
       <Section title="AE代剪(自动报价)">
         <Card>
-          <p className="text-2xl font-bold mb-2">成品1秒2元（25s起剪）</p>
+          <p className="text-2xl font-bold mb-2">成品1秒2元（20s起剪）</p>
 
           <p className="text-white/70 mb-4">
             一条龙服务：补帧 · 修复 · 调色（主播同款）
