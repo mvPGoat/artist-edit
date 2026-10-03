@@ -117,7 +117,7 @@ export default function Home() {
       {/* ================= AE代剪（不动内容） ================= */}
       <Section title="AE代剪(自动报价)">
         <Card>
-          <p className="text-2xl font-bold mb-2">成品1秒2元</p>
+          <p className="text-2xl font-bold mb-2">成品1秒2元（25s起剪）</p>
 
           <p className="text-white/70 mb-4">
             一条龙服务：补帧 · 修复 · 调色（主播同款）
@@ -177,8 +177,7 @@ export default function Home() {
           <p className="text-white/70 mb-4">每月4次 · 每次2人</p>
 
           <div className="text-white/60 space-y-1 text-sm">
-           <p>不支持指定球星</p>
-           <p>发布日期得等具体排到哪一天</p>
+           <p>不支持指定球星和发布日期</p>
             <p>付款进入排队</p>
             <p>付完款发抖音号</p>
             <p>排队期间排不到随时可退款</p>
@@ -252,12 +251,11 @@ export default function Home() {
 
       <Section title="画质修复 / 补帧教学">
         <Card>
-          <p className="text-2xl font-bold mb-2">60元（完整）</p>
+          <p className="text-2xl font-bold mb-2">Topaz video ai / SVFI</p>
           <div className="text-white/60 space-y-1 text-sm">
-            <p>远程 ToDesk 教学</p>
-            <p>手把手安装 + 操作</p>
+            <p>远程 ToDesk 教学手把手安装 + 调参数：60元</p>
             <p>单参数：40元</p>
-            <p>补帧教学：30元(SVFI)</p>
+            <p>补帧教学：30元(需先自行至steam购买SVFI)</p>
           </div>
         </Card>
       </Section>
